@@ -5,9 +5,9 @@
   If it is true, console log "I love to code!"
   If it is not, console log "Coding has its challenges."
 */
-let lovesCode = true
+ let lovesCode = true
 
-if(lovesCode === true){
+ if(lovesCode === true){
     console.log(`I love to code!`)
 }
 else{
@@ -29,7 +29,15 @@ var brittanisBirthYear = 1986
 */
 
 //CODE HERE
-
+if(amysAge > brittanisAge){
+  console.log(`Amy is older.`)
+}
+else if(amysAge === brittanisAge){
+  console.log('Amy and Brittani are both the same age.')
+}
+else{
+  console.log(`Brittani is older.`)
+}
 
 ////////// PROBLEM 3 //////////
 
