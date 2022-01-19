@@ -91,7 +91,7 @@ else{
 for(i = 0; i < 10; i++){
   console.log(`hello`)
 }
-//CODE HERE
+//CODE HEREgit
 
 
 ////////// PROBLEM 6 //////////
